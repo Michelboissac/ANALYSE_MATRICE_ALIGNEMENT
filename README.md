@@ -9,6 +9,7 @@ Il necessite R4.5.1 disponible à l'adresse suivante : https://cran.r-project.or
 utilisation du script :
 
 ouvrir le fichier .R : ANALYSE_MATRICE_ALIGNEMENT.R et cliquer sur source (ou selectionnez l'entiereté du script et cliquer sur run) :
+
 ![source](annexes/images/source.png)
 
 la fenetre suivante va s'ouvrir : 
@@ -18,17 +19,22 @@ la fenetre suivante va s'ouvrir :
 Il faut ensuite réaliser les 4 etapes :
 
 1)selectionner une matrice d'alignement :
+
 ![texte](annexes/images/matrice.png)
 
 2)selection de genes :
 ![texte](annexes/images/gene1.png)
+
 ![texte](annexes/images/gene2.png)
 
 3)normalisation :
+
 ![texte](annexes/images/normalisation.png)
 
 4)renommer les alignements :
+
 ![texte](annexes/images/renomme_align.png)
 
 puis lancer ensuite les analyse :
+
 ![texte](annexes/images/analyse.png)

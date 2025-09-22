@@ -23,7 +23,12 @@ Il faut ensuite réaliser les 4 etapes :
 ![texte](annexes/images/matrice.png)
 
 2)selection de genes :
+
+vous pouvez renter une liste de genes dans la case "nom ancien", et renommer les genes pour les visualiser dans les analyses avec la case "nom nouveau" :
+
 ![texte](annexes/images/gene1.png)
+
+vous pouvez verifier qu'un gene fait bien partit de la liste de gene de votre matrice (genome) :
 
 ![texte](annexes/images/gene2.png)
 

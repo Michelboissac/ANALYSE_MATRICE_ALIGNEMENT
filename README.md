@@ -10,7 +10,7 @@ utilisation du script :
 ouvrir le fichier .R : ANALYSE_MATRICE_ALIGNEMENT.R et cliquer sur source (ou selectionnez l'entiereté du script et cliquer sur run)
 
 
-![fenetre principale](annexes/images/fenetre_principale.png)
+![principale](annexes/images/fenetre_principale.png)
 
 
 

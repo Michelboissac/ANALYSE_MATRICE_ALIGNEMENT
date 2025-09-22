@@ -19,7 +19,7 @@ utilisation du script :
 ouvrir le fichier .R : ANALYSE_MATRICE_ALIGNEMENT.R et cliquer sur source (ou selectionnez l'entiereté du script et cliquer sur run)
 
 
-![Texte alternatif](annexes/images/fenetre principale.png)
+![Texte alternatif](annexes/images/gene1.png)
 
 
 

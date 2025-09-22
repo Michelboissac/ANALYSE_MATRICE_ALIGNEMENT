@@ -15,15 +15,20 @@ la fenetre suivante va s'ouvrir :
 
 ![fenetre_principale](annexes/images/fenetre_pincipale.png)
 
+Il faut ensuite réaliser les 4 etapes :
 
+1)selectionner une matrice d'alignement :
+![texte](annexes/images/matrice.png)
 
-
-![texte](annexes/images/analyse.png)
-
+2)selection de genes :
 ![texte](annexes/images/gene1.png)
 ![texte](annexes/images/gene2.png)
-![texte](annexes/images/matrice.png)
+
+3)normalisation :
 ![texte](annexes/images/normalisation.png)
+
+4)renommer les alignements :
 ![texte](annexes/images/renomme_align.png)
 
-![texte](annexes/images/gene1.png)
+puis lancer ensuite les analyse :
+![texte](annexes/images/analyse.png)

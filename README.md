@@ -47,7 +47,7 @@ puis lancer ensuite les analyse :
 
 
 Toutes les fonctions utilisées dans ce script sont dans le fichiers "fonctions.R",
-les fonctions principale pour une analyse sont dans le fichier "test_workflow_simple_architecture.R" et peuvent etre lancé directement dans passer par l'interface graphique.
+les fonctions principale pour une analyse sont dans le fichier "test_workflow_simple_architecture.R" et peuvent etre lancé directement sans passer par l'interface graphique.
 
 architecture du workflow : 
 ![texte](annexes/images/workflow.png)

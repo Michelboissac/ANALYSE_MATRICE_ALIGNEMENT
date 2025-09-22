@@ -14,3 +14,13 @@ ouvrir le fichier .R : ANALYSE_MATRICE_ALIGNEMENT.R et cliquer sur source (ou se
 
 
 
+
+![texte](annexes/images/analyse.png)
+
+![texte](annexes/images/gene1.png)
+![texte](annexes/images/gene2.png)
+![texte](annexes/images/matrice.png)
+![texte](annexes/images/normalisation.png)
+![texte](annexes/images/renomme_align.png)
+![texte](annexes/images/source.png)
+![texte](annexes/images/gene1.png)

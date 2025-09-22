@@ -7,10 +7,13 @@ Il necessite R4.5.1 disponible à l'adresse suivante : https://cran.r-project.or
 
 
 utilisation du script :
-ouvrir le fichier .R : ANALYSE_MATRICE_ALIGNEMENT.R et cliquer sur source (ou selectionnez l'entiereté du script et cliquer sur run)
 
+ouvrir le fichier .R : ANALYSE_MATRICE_ALIGNEMENT.R et cliquer sur source (ou selectionnez l'entiereté du script et cliquer sur run) :
+![source](annexes/images/source.png)
 
-![texte](annexes/images/fenetre_pincipale.png)
+la fenetre suivante va s'ouvrir : 
+
+![fenetre_principale](annexes/images/fenetre_pincipale.png)
 
 
 
@@ -22,5 +25,5 @@ ouvrir le fichier .R : ANALYSE_MATRICE_ALIGNEMENT.R et cliquer sur source (ou se
 ![texte](annexes/images/matrice.png)
 ![texte](annexes/images/normalisation.png)
 ![texte](annexes/images/renomme_align.png)
-![texte](annexes/images/source.png)
+
 ![texte](annexes/images/gene1.png)

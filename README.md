@@ -2,7 +2,7 @@
 
 
 Ce script permet d'analyser des matrices d'alignements provenant de l'outil FeatureCounts 
-(pour creer une matrice d'alignements : https://github.com/Michelboissac/ALIGNEMENT_READS_GENOME/blob/main/README.md)
+(pour creer une matrice d'alignements : https://github.com/Michelboissac/ALIGNEMENT_READS_GENOME)
 Il necessite R4.5.1 disponible à l'adresse suivante : https://cran.r-project.org/bin/windows/base/R-4.5.1-win.exe
 (Si une version antérieure à la 4.5.1 est deja installée, la desinstaller et installer la 4.5.1)
 

@@ -1,0 +1,344 @@
+bioproject	nom
+PRJNA1290238	1. Apis mellifera Raw sequence reads
+PRJDB15152	2. Visium analysis of gene expression in honey bees
+PRJNA1227221	3. Single-nucleus and spatial transcriptome identify brain landscape of gene regulatory networks associated with behavioral maturation in honeybees
+PRJNA1227195	4. Single-nucleus and spatial transcriptome identify brain landscape of gene regulatory networks associated with behavioral maturation in honeybees
+PRJDB19871	5. MB in bee pupa
+PRJDB14753	6. Reference transcriptome expressions of Western honeybee, Apis mellifera
+PRJNA1125437	7. RNA-seq of worker antennae of honeybees (Apis mellifera) with a dsx stop/stop mutation
+PRJNA1100956	8. Apis mellifera Genome sequencing and assembly
+PRJNA1100784	9. Apis mellifera Genome sequencing and assembly
+PRJNA1041771	10. Evolutionary Process Underlying Receptor Gene Expansion and Cellular Divergence of Olfactory Sensory Neurons in Honeybees. [scRNA-Seq]
+PRJDB14260	11. Identification of ecdysone receptor (EcR) target genes in the adult brain of the European honey bee (Apis mellifera L.)
+PRJNA1021163	12. Memory consolidation in honey bees is enhanced by down-regulation of Down Syndrome Cell Adhesion Molecule and changes its alternative splicing
+PRJNA1001811	13. Apis mellifera Raw sequence reads
+PRJNA981429	14. A postmeiotically bifurcated roadmap of honeybee spermatogenesis marked by phylogenetically restricted genes
+PRJNA960873	15. Combined transcriptome and miRNA-based analysis of the molecular mechanism of collection preference in Italian honey bees
+PRJNA940795	16. Examining parent-of-origin effects on transcription and RNA methylation in mediating aggressive behavior in honey bees (Apis mellifera)
+PRJNA913589	17. Transcriptome analysis of Apis mellifera antennae reveals molecular divergence underlying the division of labor in worker bees
+PRJNA907744	18. MicroRNA profiling of royal jelly extracellular vesicles and their potential role in cell viability and reversing cell apoptosis
+PRJNA896707	19. Apis mellifera Raw sequence reads
+PRJNA891719	20. Genetics of tolerance in honey bees to the neonicotinoid clothianidin.
+PRJNA860593	21. Mushroom body RNA-Sequencing of the honey bee brain
+PRJNA853272	22. Chromatin Accessibility-Based Characterization of the Gene Regulatory Networks Underpinning Phenotypic Plasticity in the Honey Bee (ATAC-Seq).
+PRJNA853271	23. Chromatin Accessibility-Based Characterization of the Gene Regulatory Networks Underpinning Phenotypic Plasticity in the Honey Bee (ChIP-Seq).
+PRJNA853270	24. Chromatin Accessibility-Based Characterization of the Gene Regulatory Networks Underpinning Phenotypic Plasticity in the Honey Bee (RNA-Seq).
+PRJNA852803	25. Apis mellifera Raw sequence reads
+PRJNA832511	26. Apis mellifera Raw sequence reads
+PRJNA825517	27. Effects of fat body microRNA miR-305-5p knockdown on brain and fat body gene expression in Apis mellifera
+PRJNA821623	28. Apis mellifera Raw sequence reads
+PRJNA812631	29. Apis mellifera Raw sequence reads
+PRJNA812324	30. Apis mellifera Transcriptome or Gene expression
+PRJNA808312	31. Mediating a host cell signaling pathway linked to the overwinter mortality offers a promising therapeutic approach for improving bee health
+PRJNA793933	32. Apis mellifera Raw sequence reads
+PRJNA793823	33. The gut microbiota affects the social network of honeybees
+PRJNA793424	34. Apis mellifera Raw sequence reads
+PRJNA785787	35. Apis mellifera Raw sequence reads
+PRJNA784509	36. Apis mellifera Raw sequence reads
+PRJNA783076	37. Apis mellifera Transcriptome or Gene expression
+PRJNA782854	38. Apis mellifera RNAi network construction
+PRJNA779754	39. Apis_mellefera_hypopharyngeal_gland_RNA-seq
+PRJNA765472	40. Apis mellifera Transcriptome or Gene expression
+PRJNA764848	41. Single-cell transcriptomic analysis of honeybee brains identifies vitellogenin as caste differentiation-related factor
+PRJNA757608	42. Abundant small RNAs in the reproductive tissues of the honey bee, Apis mellifera, are a plausible mechanism for epigenetic inheritance and parental manipulation of gene expression
+PRJNA749144	43. Transcriptome difference between testis and ovary of Apis mellifera
+PRJNA743412	44. Apis mellifera Transcriptome or Gene expression
+PRJNA740269	45. Searching beyond the streetlight: neonicotinoid exposure alters the neurogenomic state of worker honey bees 
+PRJNA713798	46. Next Generation Sequencing Facilitates Quantitative Analysis of Honey Bee Brain Transcriptomes Treated by Dinotefuran
+PRJNA713522	47. bee Genome sequencing and assembly
+PRJNA694473	48. Pharmacological activation of the Integrated Stress Response triggers a transcriptional program centered on ribosome biogenesis and function in honey bees
+PRJNA689223	49. Apis mellifera strain:Managed Transcriptome or Gene expression
+PRJNA670620	50. Apis mellifera Transcriptome or Gene expression
+PRJNA668751	51. mRNA-Seq of male and female embyos of the honeybee (Apis mellifera)
+PRJNA667676	52. Thermal stress induces tissue damage and a broad shift in regenerative signaling pathways in the honey bee intestine
+PRJNA656275	53. Tissue specific transcription patterns support the kinship theory of intragenomic conflict in honey bees (Apis mellifera)
+PRJNA648853	54. The absence of pollen in the diet of worker honeybees triggers premature aging
+PRJNA641209	55. Apis mellifera Transcriptome or Gene expression
+PRJNA636804	56. Apis mellifera Raw sequence reads
+PRJNA616244	57. CRISPR-induced deletion of honey bee orco gene [RNA-Seq]
+PRJNA616242	58. CRISPR-induced deletion of honey bee orco gene [DNA]
+PRJNA609178	59. Single-cell dissection of aggression in honeybee colonies
+PRJNA599219	60. Molecular effects of neonicotinoid thiacloprid in honey bees (Apis mellifera)
+PRJNA595689	61. Single-cell dissection of aggression in honeybee colonies
+PRJNA579390	62. The IRE1 Pathway Regulates Honey Bee Unfolded Protein Response Gene Expression
+PRJNA564247	63. m6A methylome analysis reveals that m6A marks function in larval development and caste differentiation in honeybee (Apis mellifera)
+PRJNA549281	64. Gene expression in honeybees
+PRJNA542362	65. Apis mellifera Transcriptome or Gene expression
+PRJNA541333	66. Meta-analysis of honey bee neurogenomic response to deformed wing virus
+PRJNA541005	67. Brain regions and molecular pathways responding to food reward type and value in honey bees
+PRJNA541004	68. Meta-analysis of honey bee neurogenomic response to deformed wing virus (drone)
+PRJNA541003	69. Meta-analysis of honey bee neurogenomic response to deformed wing virus (worker)
+PRJNA530116	70. Apis mellifera Transcriptome or Gene expression
+PRJNA524311	71. Seminal fluid compromises visual perception in honeybee queens reducing their survival during additional mating flights
+PRJNA498919	72. Transcriptomic responses to diet quality and viral infection in Apis mellifera
+PRJNA498667	73. Apis mellifera Raw sequence reads
+PRJNA493573	74. Phenotypic plasticity shapes genome architecture in the honeybee Apis mellifera (RNA-seq)
+PRJNA493572	75. Phenotypic plasticity shapes genome architecture in the honeybee Apis mellifera (ChIP-seq)
+PRJNA488619	76. Genome-wide analysis of coding and non-coding RNAs in ovary of honey bee workers
+PRJNA480381	77. LncRNA profile of Apis mellifera
+PRJNA479740	78. DNA methylation is maintained with high fidelity in the honey bee germline and exhibits global non-functional fluctuations during somatic development
+PRJNA478161	79. Self-training algorithm for splice junction detection using RNA-seq and its application to honey bee transcriptomes
+PRJNA450078	80. Honey bee neurogenomic responses to affiliative and agonistic social interactions
+PRJNA442330	81. Apis mellifera pollen type and Nosema infection transcriptome
+PRJNA438274	82. Apis mellifera Transcriptome or Gene expression
+PRJNA438231	83. Apis mellifera Transcriptome or Gene expression
+PRJNA436408	84. Apis mellifera Transcriptome or Gene expression
+PRJNA434146	85. Queen and worker honeybee castes are defined by alternative chromatin states during larval development [RNA-Seq]
+PRJNA431793	86. Diversity and selective forces in the key honey bee pathogen, Deformed wing virus
+PRJNA431378	87. Gene expression underlying differential adult hind leg morphogenesis in honeybee castes [worker]
+PRJNA431377	88. Gene expression underlying differential adult hind leg morphogenesis in honeybee castes [worker-queen_pupae]
+PRJNA431376	89. Gene expression underlying differential adult hind leg morphogenesis in honeybee castes [worker-queen_larvae]
+PRJNA431375	90. Gene expression underlying differential adult hind leg morphogenesis in honeybee castes [worker_queen_prepupae]
+PRJNA431374	91. Gene expression underlying differential adult hind leg morphogenesis in honeybee castes [queen]
+PRJNA427726	92. Transcriptome and Methylome of Apis mellifera pupae after IAPV infection
+PRJNA407316	93. Differential circular RNAs expression in ovary during oviposition in honey bees
+PRJNA395324	94. Sex-specific development in haplodiploid honeybee is controlled by the female-embryo-specific activation of thousands of intronic lncRNAs
+PRJNA386067	95. Apis mellifera Transcriptome or Gene expression
+PRJNA382552	96. Semi-field Study of Apis mellifera exposed to imidacloprid.
+PRJNA379344	97. siRNA-based assembly of bee viral genomes
+PRJNA374654	98. Effect of Varroa infestation, at the pupal stage, on the transcriptome of newly emerged bees, maintained under artificial conditions
+PRJNA369540	99. Brain and HPG total RNA-Seq Libraries from Forager and NEB Apis mellifera
+PRJNA359486	100. Integration of lncRNA-miRNA-mRNA reveals novel insights into reproductive regulation in honey bees
+PRJNA357523	101. Apis mellifera RNA sequencing
+PRJNA354592	102. Gene expression underlying differential adult brain morphogenesis in honeybee castes
+PRJNA354377	103. Gene targets and developmental regulation of the honeybee Apis mellifera ftz-f1
+PRJNA352309	104. Apis mellifera larvae DNA methylation profiles Raw sequence reads
+PRJNA343198	105. Deep evolutionary conservation of autism-related genes
+PRJNA339906	106. Apis mellifera Transcriptome or Gene expression
+PRJNA339620	107. Transcriptomic and epigenetic responses to social challenge and their association with future behavior in honey bees (RNA-Seq)
+PRJNA339509	108. Apis mellifera Raw sequence reads
+PRJNA338450	109. Transcriptomic Analysis of Instinctive and Learned Reward-Related Behaviors in Honey Bees
+PRJNA329428	110. apis mellifera  Transcriptome and virome
+PRJNA325930	111. mRNA profiling of Apis mellifera larvae fed with diets containing quercetin
+PRJNA322424	112. Apis mellifera Transcriptome or Gene expression
+PRJNA322249	113. Brain transcriptome of honeybees (Apis mellifera) infected by Nosema ceranae and/or Black Queen Cell Virus
+PRJNA320633	114. Differential gene expression underlying ovarian phenotype determination in honey bee, Apis mellifera, caste development
+PRJNA312886	115. Apis mellifera Raw sequence reads
+PRJNA306498	116. Testing the Kinship Theory of Intragenomic Conflict in Honey Bees (Apis mellifera)
+PRJNA295389	117. On the relevance of technical variation due to building pools in microarray experiments [Honey bee]
+PRJNA292367	118. Honeybee Research Institute, Jiangxi Agricultural University, Nanchang, China transcriptome
+PRJNA292006	119. Investigating the Regulation of Hypopharyngeal Gland Activity in Honeybees Under Nutrition and Brood Pheromone Conditions through RNA-seq Transcriptomics
+PRJNA275154	120. RNA-sequencing elucidates the regulation of behavioural transitions associated with mating in honey bee queens
+PRJNA274674	121. Parallel Epigenomic and Transcriptomic Responses to Viral Infection in Honey Bees (Apis mellifera)
+PRJNA268450	122. Antennae transcriptomics of Varroa-hygienic and Nurse/Forager bees
+PRJNA263933	123. honeybee Transcriptome or Gene expression
+PRJNA261549	124. Apis Mellifera Transcriptome or Gene expression
+PRJNA260922	125. Apis mellifera Transcriptome or Gene expression
+PRJNA260604	126. Transcriptome of honey bee larvae
+PRJNA257666	127. Apis mellifera Transcriptome or Gene expression
+PRJNA244920	128. Investigating the Regulation of Hypopharyngeal Gland Activity in Honeybees Undergoing Harsh Winter Conditions through RNA-seq Transcriptomics Combined with iTRAQ-based Comparative Proteomics
+PRJNA243651	129. Apis mellifera Tissue Study
+PRJNA229500	130. Small RNA expression and caste differentiation in the honeybee
+PRJNA227348	131. Biased gene expression in early honeybee larval development (sequencing)
+PRJNA227341	132. Biased gene expression in early honeybee larval development (microarray)
+PRJNA225033	133. Neuroligin-associated microRNA-932 targets actin and regulates memory
+PRJNA217513	134. Recipe for a busy bee: MicroRNAs in honey bee caste determination (microRNA array)
+PRJNA211831	135. Transcriptional profiling of Apis mellifera brains from three developmental castes
+PRJNA207482	136. Apis mellifera KD dnmt3
+PRJNA203871	137. Transcriptome Sequencing Analysis Reveals the Regulation of the Hypopharyngeal Glands in the Honey Bee, Apis mellifera carnica Pollmann
+PRJNA201395	138. Apis mellifera developed from larvae fed with heterospecific royal jelly RNA-seq project
+PRJNA201076	139. Apis mellifera Transcriptome or Gene expression
+PRJNA198516	140. Israeli acute paralysis virus – what we have learned about the virus since mysterious disappearance of the US honey bees known as Colony Collapse Disorder (CCD) in 2006
+PRJNA194157	141. Transcriptional profiling of honeybee abdomens, digestive tracts and sting glands
+PRJNA193051	142. Apis mellifera Transcriptome or Gene expression
+PRJNA192527	143. Apis mellifera fat body Vg-miRNA data
+PRJNA192526	144. Apis mellifera brain Vg-miRNA data
+PRJNA192448	145. Feeding with miR-184 affects the mRNA expression profile of queen larvae
+PRJNA192195	146. Recipe for a busy bee: MicroRNAs in honey bee caste determination
+PRJNA184919	147. Genes involved in thoracic exoskeleton formation during the pupal-to-adult molt of a social insect model, Apis mellifera
+PRJNA184875	148. Effects of dsRNA-GFP as exogenous control on honey bee RNAi assays: gene expression changes in workers
+PRJNA184874	149. Gene networks linked to vitellogenin mRNA disruption
+PRJNA184873	150. dsGFP as exogenous control on RNAi assays and its effects on gene expression in Apis mellifera
+PRJNA179128	151. Apis mellifera small RNA expression under viral feeding and Varroa parasitisation
+PRJNA175822	152. Brain transcriptomics of honey bee parasitized by Varroa destructor or Nosema ceranae
+PRJNA175445	153. Apis mellifera Transcriptome or Gene expression
+PRJNA174472	154. Effects of flight on gene expression and aging in the honey bee brain and flight muscle
+PRJNA170762	155. Comparison of Apis mellifera workers and queens brain development at fourth instar larvae 
+PRJNA165695	156. Expression differences related to phenobarbital feeding in worker honey bees
+PRJNA149933	157. Comparison of Apis mellifera workers and queens hind leg development at prepupal stages
+PRJNA140955	158. An Emerging Threat to Honey Bees from the Parasitic Phorid Fly Apocephalus borealis
+PRJNA139969	159. The habitat disruption induces immune-suppression and oxidative stress in honey bees
+PRJNA134705	160. Trancriptome analysis of honey bees (Apis mellifera) infected with Nosema ceranae
+PRJNA134353	161. Nutrigenomics in honey bees: the impact of pollen nutrients on bee health
+PRJNA122395	162. Global identification of transcription start sites in the genome of Apis mellifera by using 5’ LongSAGE
+PRJNA104931	163. Reversible switching between epigenetic states in honeybee behavioral subcastes
+PRJNA101639	164. Expression differences between worker(female) and drone(male) honey bee antennae
+PRJNA98653	165. Differentially expressed genes in developing queens and workers - effects of juvenile hormone (JH)
+PRJNA79773	166. Transcriptomic analysis to identify differences between honey bee nurses and foragers
+PRJNA79621	167. Next-generation small RNA sequencing for microRNAs profiling in the honeybee Apis mellifera
+PRJNA79571	168. Apis mellifera queen ovary RNA sample 1
+PRJNA51483	169. Apis mellifera strain MA transcriptome sequencing project
+PRJNA51481	170. Apis mellifera transcriptome sequencing project
+PRJNA1065419	171. Apis mellifera carnica Raw sequence reads
+PRJNA905650	172. Apis mellifera carnica Transcriptome or Gene expression
+PRJNA607066	173. Seminal fluid components alone stimulate post-mating changes in honey bee queens (Apis mellifera)
+PRJNA377749	174. Apis mellifera Transcriptional Response to SINV-GFP
+PRJNA343067	175. RNA-seq in the honey bee pylorus in response to the gut symbiont Frischella perrara
+PRJNA240064	176. Apis mellifera Transcriptome or Gene expression
+PRJNA209400	177. Apis mellifera carnica Pollman Transcriptome or Gene expression
+PRJNA202862	178. Apis mellifera carnica Transcriptome or Gene expression
+PRJNA193691	179. mRNA-Seq of brain tissue from honeybee (Apis mellifera) drones (male), workers (female) and queens (female).
+PRJNA1221518	180. Transcriptomic data of pupal Apis mellifera ligustica worker head post cold-stress
+PRJNA1185834	181. Apis mellifera ligustica ovarian transcriptome sequencing
+PRJNA1001629	182. Apis mellifera ligustica Raw sequence reads
+PRJNA996350	183. Apis mellifera ligustica Raw sequence reads
+PRJDB5532	184. Honeybee Hr38 Target gene
+PRJNA908448	185. Apis mellifera ligustica Raw sequence reads
+PRJNA907187	186. Apis mellifera ligustica Raw sequence reads
+PRJNA832496	187. Apis mellifera ligustica Raw sequence reads
+PRJNA801850	188. mRNA expression profile in the fluvalinate exposed Apis mellifera ligustica brain tissue
+PRJNA681833	189. MicroRNA expression profile of Apis mellifera ligustica brain tissue
+PRJNA639645	190. Apis mellifera ligustica Transcriptome or Gene expression
+PRJDB5837	191. Identification of novel neural immediate early genes in honeybee
+PRJNA436350	192. Apis mellifera ligustica Transcriptome or Gene expression
+PRJNA418780	193. Apis mellifera ligustica Transcriptome or Gene expression
+PRJNA383947	194. Apis mellifera ligustica Transcriptome or Gene expression
+PRJNA380991	195. Apis mellifera ligustica Transcriptome or Gene expression
+PRJNA380316	196. Apis mellifera ligustica Raw sequence reads
+PRJNA380313	197. Apis mellifera ligustica Raw sequence reads
+PRJNA380310	198. Apis mellifera ligustica Raw sequence reads
+PRJNA380308	199. Apis mellifera ligustica Raw sequence reads
+PRJNA380305	200. Apis mellifera ligustica Raw sequence reads
+PRJNA338112	201. Apis mellifera ligustica Raw sequence reads
+PRJNA295415	202. Apis mellifera ligustica Transcriptome or Gene expression
+PRJNA290567	203. Apis mellifera ligustica Transcriptome or Gene expression
+PRJNA284414	204. Apis mellifera microbiota and parasite dynamics
+PRJNA234086	205. Apis mellifera queen and worker larvae miRNAs sequencing
+PRJNA234085	206. Apis mellifera ligustica queen larvae and worker larvae miRNAs sequencing
+PRJNA234083	207. Apis mellifera ligustica larvae miRNAs sequencing
+PRJNA234074	208. Queen larvae and worker larvae of Apis mellifera miRNAs project
+PRJNA228948	209. Apis mellifera honeybees' hypopharyngeal glands DGE project
+PRJNA205334	210. Apis mellifera ligustica miRNA sequencing
+PRJNA205329	211. Apis mellifera ligustica Transcriptome or Gene expression
+PRJNA205104	212. Apis mellifera ligustica Royal nurse honeybees' hypopharyngeal gland DGE project
+PRJNA204964	213. Apis millefera Royal nurse honeybee larvae DGE project
+PRJNA204963	214. Apis mellifera Royal nurse honeybees' head DGE project
+PRJNA203438	215. Apis mellifera ligustica Royal nurse honeybees DGE project
+PRJNA202290	216. Apis millefera ligustica Y maze-based visual learning microRNA project
+PRJNA201386	217. Apis mellifera Y maze-based visual learning and memory DGE project
+PRJNA201010	218. Gene expression analysis following olfactory learning in Apis mellifera
+PRJNA200755	219. Apis mellifera ligustica Transcriptome or Gene expression
+PRJNA165	220. Honey bee brain expressed sequence tag (EST) project
+PRJNA1172371	221. Apis mellifera mellifera Raw sequence reads
+PRJNA485043	222. Apis mellifera mellifera Raw sequence reads
+PRJNA336281	223. RNAi DWV Apis mellifera
+PRJNA325949	224. Apis mellifera Female Embryos Transcriptome Raw data
+PRJNA1293670	225. Transcriptomic profiling of Apis mellifera flight muscle after pyrroloquinoline-quinone (PQQ) supplementation
+PRJNA1277852	226. Dose Response Transcriptome Paraquat Honey Bees
+PRJNA1277734	227. Thermal stress on honeybee miRNA
+PRJNA1269094	228. Chemical and non-chemical effects on honey bee viral populations in pupae and adults
+PRJNA1256654	229. RNA-sequencing elucidates the regulation of delayed nuptial flight behavior in honey bee queens
+PRJNA1255379	230. The expression of small RNAs in Apis mellifera during the first 10 days after Nosema ceranae infection Transcriptome
+PRJNA1255378	231. The 10-day continuous expression of Nosema ceranae genes in the host Apis mellifera Transcriptome
+PRJNA1229792	232. RNA extracts from honeybee brain tissue
+PRJNA1225641	233. Identification of candidate leg chemosensory genes associated with nursing behavior in the Apis mellifera
+PRJNA1212903	234. Transcriptomic analysis of the effects of Acersmo activation/inhibition on olfactory genes in Apis mellifera
+PRJNA1195366	235. The development of natural control agents against American foulbrood in honeybees
+PRJNA1173229	236. microRNA profiling of uninfected and ABPV-infected AmE-711 cells
+PRJNA1164443	237. Invertebrate sample from Apis mellifera Raw sequence reads
+PRJNA1150281	238. Transcriptome analysis of Hypopharyngeal gland of the Apis mellifera under temperature-stress
+PRJNA1140000	239. 16S rRNA sequencing of honey bee gut microbiota and transcriptome data from gut and brain tissues Genome sequencing and assembly
+PRJNA1136967	240. Effect of the fungicide pyraclostrobin on the transcriptome of Africanized honey bees Apis mellifera during their foraging phase
+PRJNA1135696	241. pesticide exposed Apis mellifera transcriptome
+PRJNA1134260	242. RNA seq of  Apis mellifera infected with deformed wing virus in  Iraq
+PRJNA1106847	243. Parent-of-origin effects on transcription and chromatin regulation in reproductive caste determination
+PRJNA1098911	244. Full-length transcriptome raw data of Apis mellifera workers midgut
+PRJNA1093158	245. MicroRNA-dependent regulation of caste and reproductive status in the honey bee (Apis mellifera L.)
+PRJNA1087710	246. Transcriptome sequencing of mandibular glands of Apis cerana and Apis mellifera
+PRJNA1073175	247. Honeybee Abdominal Transcriptome
+PRJNA1048153	248. Gene expression of Eastern and Western honeybees infected with SBV
+PRJNA1033404	249. Honeybee head transcriptomes of Toy-knockout mutants and normal controls
+PRJNA1030416	250. Mandibular Gland transcriptome of African honey bees
+PRJNA1030066	251. Bee virome
+PRJNA1017469	252. Transcriptomic Analysis of the Head Reveals Molecular Mechanisms Underlying Topical Imidacloprid Effects on Africanized Apis mellifera Forager Bees
+PRJNA1016442	253. Glyphosate alters the transcriptome of the head of africanized apis mellifera honeybees
+PRJNA979911	254. Phenotypical plasticity and transcriptome profile of Metarhizium anisopliae blastospores during penetration on different insect hosts
+PRJEB49136	255. Honey bee varroa infestation
+PRJNA949424	256. Effects of sublethal doses of flumethrin on the head transcriptome of 20-day-old worker bees
+PRJNA948925	257. Effect of sublethal dose of flumethrin on transcriptome of the head of drone
+PRJNA945618	258. Longitudinal analysis of honey bee viruses in the USA
+PRJNA943259	259. Transcriptomics of Royal Jelly Composition in Geotrigona acapulconis and Apis mellifera
+PRJNA941379	260. Full-length transcriptome of Apis mellifera
+PRJEB39369	261. Apis mellifera from Edinburgh and Midlothians
+PRJNA926141	262. The genetic underpinnings of Varroa mite and disease resistance in honey bees
+PRJNA904516	263. RNA-seq clean data in midguts of nurse workers and egg laying workers (Apis mellifera)
+PRJNA891375	264. H3K4me1 Modification Functions in Caste Differentiation in Honey Bee
+PRJNA878648	265. Transcriptome analysis of Apis mellifera female embryos with fem gene knockout by CRISPR/Cas9
+PRJNA872281	266. Expression profile of microRNAs during development of the hypopharyngeal gland in honeybee, Apis mellifera
+PRJNA866287	267. Apis mellifera Linnaeus head
+PRJNA822776	268. Transcriptome of honeybee gut raw sequence read
+PRJNA820988	269. Apis mellifera and Apis cerana RNA Genome sequencing
+PRJNA820512	270. Viral communities in the parasite Varroa destructor and in colonies of their honey bee host (Apis mellifera) in New Zealand
+PRJNA786300	271. Apis_mellefera_RNA-seq_HG_RNAi
+PRJNA784528	272. 2015 Bond-Control RNA metagenomes
+PRJNA782668	273. Transcriptome of Apis mellifera (7th-adult treatd group) feeding by tea pollen and nectar
+PRJNA782663	274. Transcriptome of Apis mellifera (7th-adult control group) feeding by tea pollen and nectar
+PRJNA782432	275. Transcriptome of Apis mellifera (1st-adult treated group) feeding by tea pollen and nectar
+PRJNA782425	276. Transcriptome of Apis mellifera (1st-adult control group) feeding by tea pollen and nectar
+PRJNA782412	277. Transcriptome of Apis mellifera (5th-instar treated group) feeding by tea pollen and nectar
+PRJNA782411	278. Transcriptome of Apis mellifera (5th-instar control group) feeding by tea pollen and nectar
+PRJNA782394	279. Transcriptome of Apis mellifera (1st-instar treated group) feeding by tea pollen and nectar
+PRJNA770835	280. Revealing the epigenetic mechanism under honeybee caste determination through multi-omic analysis
+PRJNA760967	281. Enterococcus faecium Regulates Honey Bee Developmental Genes
+PRJNA760337	282. LncRNA sequencing of the honeybee brain between waggling dancers and non-dancing bees
+PRJNA754836	283. Effects of cadmium on honeybees
+PRJNA748829	284. DRS analysis of honeybee
+PRJNA748510	285. honey bee hindgut transcriptome
+PRJNA745504	286. Transcriptional response of European foulbrood diseased Apis mellifera larvae
+PRJNA736398	287. Comparing the head transcriptome of honey bees at 9 days old and 1 day old.
+PRJNA735887	288. Honeybee Brain
+PRJNA733472	289. Venom proteo-transcriptomics and genomics of social and solitary bees and wasps and other hymenopterans.
+PRJNA732718	290. Evaluating Intragenomic Conflict in Altruistic, Pheromone-Mediated Honey Bee Behaviors
+PRJNA730561	291. Zinc supplementation modifies brain tissue transcriptome of Apis mellifera honeybees
+PRJNA724861	292. RNA-seq of imaginal discs during metamorphosis to wings and thoracic dorsum in the honeybee castes
+PRJNA724860	293. Honey bee wing disc small RNAs
+PRJNA694695	294. HGs and diet transcriptome
+PRJNA691740	295. RNA-Seq of Apis mellifera: adult bee brain
+PRJNA691031	296. Transcriptomic Responses of the Honey Bee Brain to Infection with Deformed Wing Virus
+PRJNA687318	297. Metatranscriptome analysis of sympatric bee species identifies variants of bee infecting viruses, and a novel RNA virus primarily associated with Andrena
+PRJNA687066	298. Investigating transcriptomes of Australian pollinators
+PRJNA683681	299. Hymenopteran venom gland transcriptome analysis
+PRJNA683673	300. Hymenopteran venom gland transcriptome analysis
+PRJNA683098	301. Hymenopteran venom gland transcriptome analysis
+PRJNA681941	302. honeybee gut transcriptome
+PRJNA669279	303. RNA-Seq of deformed wing virus (DWV) infection on honey bee larvae
+PRJNA661322	304. Queenless Queenright Oxidative Stress Honey bees
+PRJNA659635	305. transcriptome analysis of Apis mellifera mandibular glands from age-matched nurses and foragers
+PRJNA646192	306. Honey bee and varroa transcriptome under formic acid
+PRJEB35177	307. RNA-seq of antennal tissue of male and female honey bees (Apis mellifera) at 2 different time points of the day
+PRJNA630878	308. transcriptome analysis of Apis mellifera hypopharyngeal glands from age-matched nurses and foragers
+PRJNA628012	309. RNA-Seq data queens reared from three-day old larvae (L3) in worker cells.
+PRJNA627983	310. RNA-Seq data queens reared from two-day old larvae (L2) in worker cells.
+PRJNA627910	311. RNA-Seq data queens reared from one-day old larvae in worker cells.
+PRJNA627872	312. RNA-Seq data of queens reared from eggs (E) in worker cells.
+PRJNA613391	313. Functional and Proteomic insights into Aculeata venoms: Evolutionary and Toxinological implications
+PRJNA587465	314. Transcriptomic analysis of Lotmaria passim and honey bee Apis mellifera at different time points 2019
+PRJNA575879	315. Transcriptomic analysis of the honey bee (Apis mellifera) queen brain in response to pesticide exposure during development
+PRJNA559906	316. Brain microRNA expression in six bee species
+PRJNA542364	317. Transcriptome of spermetheca from mated and unmated honey bee queens (Apis mellifera) versus drone semen transcriptome.
+PRJNA533756	318. Convergent eusocial evolution is based on a shared reproductive groundplan plus lineage-specific plastic genes
+PRJNA531527	319. RNA virus diversity in apiary-associated insects
+PRJNA527326	320. Rna seq evaluated the long-term effects of early developmental oxidative-stress
+PRJNA527270	321. A microsporidia possesses robust transcriptional response to heat shock impacting diverse cellular processes despite lack of HSF
+PRJNA510543	322. Transcriptome analysis of Andrena camellia and Apis mellifera
+PRJNA510495	323. Transcriptomic analysis of Lotmaria passim and honey bee Apis mellifera at different time points
+PRJEB25284	324. RNA-Seq of full-length RNA from worker and royal jelly of honey bees (Apis mellifera)
+PRJEB26475	325. RNA-seq of total royal jelly and MRJP-3-bound RNA
+PRJNA490757	326. FutureBees NZ
+PRJEB27718	327. 16S and 18S metabarcoding of gut dysbiosis induced by co-exposition to pesticides and Nosema ceranae in the western honeybee Apis mellifera.
+PRJNA478908	328. Transcriptional responses in honey bee larvae infected with chalkbrood fungus
+PRJNA470779	329. Study SNP discovery and  detection of some new  genes related to sex
+PRJNA450296	330. Global transcriptomic effects of environmentally relevant concentrations of the neonicotinoids clothianidin, imidacloprid and thiamethoxam in honey bees (Apis mellifera)
+PRJNA429508	331. IAPV RNA-seq and BS-seq
+PRJNA386859	332. The evolution of small RNA pathways across the arthropods
+PRJNA357705	333. Honey bee total RNA sequencing
+PRJNA357165	334. Transcriptomes of honey bees and Varroa mites
+PRJNA306823	335. Plant microRNAs in larval food regulate honeybee caste development
+PRJEB6511	336. Gene expression changes in the artificially reared honeybee (Apis mellifera) pupae orally infected at larval stage with RNA viruses, Deformed Wing Virus and Sacbrood Virus.
+PRJEB5249	337. Study aimed to determine how the transmission routes of viruses (Deformed wing virus (DWV), closely related Varroa destructor virus-1 (VDV-1) and their recombinants) impact on virus diversity. DWV/VDV-1 is transmitted both vertically and orally in the mite free colonies. The mite Varroa destructor could inject viruses directly to the honeybee haemolymph. We studied effects of exposure to the mite Varroa-destructor feeding and experimental injection of DWV/VDV-1 preparations on virus diversity in the honeybees, pupae and adults.
+PRJNA238833	338. Several species of phasmatodea, with a separate transcriptome set for each. Species: Aretaon asperrimus (Heteropterigidae), Sipyloidea sipylus (Diapheromeridae), and Medauroidea extradentata, Extatosoma tiaratum, and Ramulus artemis (Phasmatidae). Tr
+PRJNA219484	339. Intronic Non-CG DNA Hydroxymethylation and Alternative mRNA Splicing in Honey Bees
+PRJEB1945	340. Effects of Deformed wing virus infection and the mite Varroa destructor on siRNA and miRNA composition in the honeybee (Apis mellifera)
+PRJEB3266	341. A RNA-seq study of worker honeybee larvae after exposure to imidacloprid.
+PRJNA172020	342. Honey bee (Apis mellifera) and an ectoparasitic mite of honey bee, Varroa destructor Transcriptome or Gene expression
+PRJNA122153	343. Genome-wide evolutionary analysis of eukaryotic DNA methylation

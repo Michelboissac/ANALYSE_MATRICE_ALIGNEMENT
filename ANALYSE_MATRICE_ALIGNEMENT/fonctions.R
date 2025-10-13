@@ -150,17 +150,16 @@ function_conditions_a_garder_dans_counts <- function(counts, liste_conditions_a_
 }
 
 #PHEATMAP
-function_pheatmap <- function(counts,plot_titre = "pheatmap", filename = "pheatmap.png", width = 1200, height = 1000, res = 150) {
-  
+function_pheatmap <- function(counts, plot_titre = "pheatmap", 
+                              filename = "pheatmap.png", 
+                              width = 1200, height = 1000, res = 150,
+                              fontsize = 8, fontsize_row = 8, fontsize_col = 8, fontsize_number = 6) {
   
   # Transposition et nettoyage
   counts <- t(counts)
   counts <- counts[rowSums(is.na(counts)) < ncol(counts), ]
   counts <- as.matrix(counts)
   counts[is.na(counts)] <- 0
-  #counts <- counts[, colSums(counts) != 0]
-  
- 
   
   # Créer la matrice de labels
   number_matrix <- matrix(sprintf("%.1f", counts), 
@@ -169,8 +168,8 @@ function_pheatmap <- function(counts,plot_titre = "pheatmap", filename = "pheatm
   # Mettre les "0.0" en texte blanc
   number_color <- matrix("black", nrow = nrow(counts), ncol = ncol(counts))
   number_color[counts == 0] <- "white"
-  print(filename)
   
+  print(filename)
   
   # Génère le plot silencieusement
   ph <- pheatmap(counts,
@@ -179,20 +178,19 @@ function_pheatmap <- function(counts,plot_titre = "pheatmap", filename = "pheatm
                  cluster_cols = FALSE,
                  display_numbers = number_matrix,
                  number_color = number_color,
-                 fontsize_number = 10,
+                 fontsize_number = fontsize_number,   # Taille des nombres
+                 fontsize = fontsize,                 # Taille globale du texte
+                 fontsize_row = fontsize_row,         # Taille des labels en Y
+                 fontsize_col = fontsize_col,         # Taille des labels en X
                  col = colorRampPalette(c("white", "yellow", "red"))(100),
                  silent = TRUE)
   
   # Enregistre en PNG
   png(filename, width = width, height = height, res = res)
-  grid::grid.draw(ph$gtable)  # Dessine le heatmap capturé
+  grid::grid.draw(ph$gtable)
   dev.off()
-  
-  #Affiche dans le notebook
-  #display_png(file = filename)
-  
-  
 }
+
 #HEATMAP
 function_heatmap = function(counts,plot_titre = "heatmap", filename = "heatmap.png", width = 1200, height = 1000, res = 150){
   #HEATMPAP:

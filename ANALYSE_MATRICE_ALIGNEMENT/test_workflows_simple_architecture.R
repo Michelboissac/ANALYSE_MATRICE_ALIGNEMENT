@@ -1,4 +1,3 @@
-
 rm(list=ls())
 source("librairies.R")
 source("fonctions.R")

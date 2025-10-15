@@ -8,7 +8,7 @@ df <- data.frame(
 )
 
 
-if (file.exists(chemin_vers_les_nouveaux_noms_txt)){
+if (!is.null(chemin_vers_les_nouveaux_noms_txt)){
   file.copy(chemin_vers_les_nouveaux_noms_txt,
             file)
 }
